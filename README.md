@@ -1,7 +1,6 @@
 ## Welcome to my profile!
 
 I am Junyuan Chen, a PhD candidate in economics.
-I use micro data to answer macroeconomic questions.
 
 ### Languages and Tools
 
@@ -42,14 +41,3 @@ I use micro data to answer macroeconomic questions.
 [vscode-img]: https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white
 [vscode-url]: https://code.visualstudio.com
 
-### Selected Packages
-
-#### Econometric Methods
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junyuan-chen&repo=InteractionWeightedDIDs.jl)](https://github.com/JuliaDiffinDiffs/InteractionWeightedDIDs.jl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junyuan-chen&repo=LocalProjections.jl)](https://github.com/junyuan-chen/LocalProjections.jl)
-
-#### IO Tools
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junyuan-chen&repo=ReadStatTables.jl)](https://github.com/junyuan-chen/ReadStatTables.jl)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=junyuan-chen&repo=posthdf)](https://github.com/junyuan-chen/posthdf)
