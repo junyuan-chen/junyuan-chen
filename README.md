@@ -1,6 +1,12 @@
 ## Welcome to my profile!
 
-I am Junyuan Chen, a PhD candidate in economics.
+I am **Junyuan Chen**, a postdoctoral researcher in economics.
+
+- 🎓 PhD in Economics from UC San Diego (2024)  
+- 🌍 Macroeconomics and international trade as primary fields  
+- 📊 Skilled in handling large datasets and solving complicated models fast  
+- 📘 Enjoy learning econometrics by coding estimators from scratch  
+- 💻 Write packages in Julia for high quality and reusable programs  
 
 ### Languages and Tools
 
