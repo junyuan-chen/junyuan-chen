@@ -1,9 +1,9 @@
 ## Welcome to my profile!
 
-I am **Junyuan Chen**, a postdoctoral researcher in economics.
+I am **Junyuan Chen**, an assistant professor in economics at [UIBE](https://en.wikipedia.org/wiki/University_of_International_Business_and_Economics).
 
 - 🎓 PhD in Economics from UC San Diego (2024)  
-- 🌍 Macroeconomics and international trade as primary fields  
+- 🌍 International trade and macroeconomics as primary fields  
 - 📊 Skilled in handling large datasets and solving complicated models fast  
 - 📘 Enjoy learning econometrics by coding estimators from scratch  
 - 💻 Write packages in Julia for high quality and reusable programs  
